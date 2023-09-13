@@ -3,10 +3,6 @@
 
 {"descriptions":"Real Madrid TV est la chaine de l'équipe de Real consacrée aux Sports et aux activités de l'équipe....","source":["https://linear-491.frequency.stream/dist/vix/491/hls/master/playlist.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNjUzMDI0OTlf/madrid","titles":"REAL MADRIDTV"},
 
-{"descriptions":"Sport 1 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....","source":["http://141.95.157.157:8081/OS2TENNIS/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTM1Nzc4MzRf/sporttwo.png","titles":"SPORTS 2"},
-
-{"descriptions":"Sports 1 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....","source":["http://141.95.157.157:8081/OS1TENNIS/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTM1Nzc4MzZf/sportone.png","titles":"SPORTS 1"},
-
 {"descriptions":"ESPN est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....","source":["http://151.248.16.100:4444/ESPN1/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTI5OTY4NDNf/espn.jpeg","titles":"ESPN 1"},
 
 {"descriptions":"ESPN est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....","source":["http://151.248.16.100:4444/ESPN2/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTI5OTY4NDVf/espntwo.jpg","titles":"ESPN 2"},
@@ -20,11 +16,5 @@
 {"descriptions":"Wrestling Sports 2 est une chaîne télévisée spécialisée au sports international...","source":["https://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNjMzNzE5NjRf/wrestma.png","titles":"WRESTLING SPORTS 2"},
 
 {"descriptions":"Eurosports WWE est une chaine televisee 100% sports.","source":["https://youzontv-app.tk/discovery%2B/Eurosport.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTI0Mzk0ODVf/EuroWwe.jpeg","titles":"EUROSPORTS WWE"},
-
-{"descriptions":"Sports 3 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct...","source":["http://141.95.157.157:8081/OS3TENNIS/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTM1Nzc4Mjlf/sporttree.png","titles":"SPORTS 3"},
-
-{"descriptions":"Sports 4 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct...","source":["http://141.95.157.157:8081/OS4TENNIS/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTM1Nzc4MjZf/sportfour.png","titles":"SPORTS 4"},
-
-{"descriptions":"Sports 5 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct...","source":["http://141.95.157.157:8081/OS5TENNIS/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTM1Nzc4MjRf/sportfive.png","titles":"SPORTS 5"},
 
 {"descriptions":"Sports Heigh Light est la chaine sportive qui se focalise aux des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct...","source":["http://141.95.157.157:8081/OSHLTENNIS/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTM1Nzc4MzZf/sportone.png","titles":"SPORTS HIGH LIGHT"}]}]}
